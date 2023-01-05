@@ -5,7 +5,7 @@
 
 ![samuelgre GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelgre&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgre&layout=compact)](https://github.com/samuelgre/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgre&layout=compact)](https://github.com/samuelgre/github-readme-stats)
 
 
 ### Estou aprendendo a programar.
